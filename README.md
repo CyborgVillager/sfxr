@@ -7,3 +7,6 @@ Increpare has created bfxr, a web remake of sfxr with many more exciting feature
 Thomas Vian from superflashbros.net ported sfxr to ActionScript 3. You can find it here: http://code.google.com/p/as3sfxr/ or you can get it like this: svn checkout http://sfxr.googlecode.com/svn/branches/as3sfxr as3sfxr
 
 Chris Gassib has ported sfxr to the iPhone. You should be able to find it in the App Store. The code has been added as a branch that you can access like so: svn checkout http://sfxr.googlecode.com/svn/branches/sfxr-iPhoneOS sfxr-iPhoneOS
+
+
+UPDATE VIDEO OVERVIEW: https://www.youtube.com/watch?v=Sgah1W4y6Zs
